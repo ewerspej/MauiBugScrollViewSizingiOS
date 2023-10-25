@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBugScrollViewSizingiOS", "MauiBugScrollViewSizingiOS.csproj", "{72D8810A-DB98-4D39-9EA3-079718A6E734}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D8810A-DB98-4D39-9EA3-079718A6E734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D8810A-DB98-4D39-9EA3-079718A6E734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D8810A-DB98-4D39-9EA3-079718A6E734}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72D8810A-DB98-4D39-9EA3-079718A6E734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D8810A-DB98-4D39-9EA3-079718A6E734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D8810A-DB98-4D39-9EA3-079718A6E734}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100249FB-8837-45AD-A73E-473C7823E9B4}
+	EndGlobalSection
+EndGlobal
